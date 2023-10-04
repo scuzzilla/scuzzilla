@@ -1,1 +1,1 @@
-![Salvatore Cuzzilla's GitHub Stats](https://github-readme-stats-lemon-zeta.vercel.app/api?username=scuzzilla&show_icons=true&theme=onedark)
+![Salvatore Cuzzilla's GitHub Stats](https://github-readme-stats-lemon-zeta.vercel.app/api?username=scuzzilla&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
